@@ -1,2 +1,1 @@
-# CN-LAB
-Computer  Networks
+# computer-network-test-case
